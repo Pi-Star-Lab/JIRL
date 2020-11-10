@@ -4,8 +4,8 @@ Official Repository for "A Joint Imitation-Reinforcement Learning (JIRL) Framewo
 
 ## Technical Report
 
-<div>
-	<object data="report/doc/jirl-technical-report.pdf" type="application/pdf" height="100%" width="80%"></object>
+<div style="width: 100%; height: 100%">
+	<object data="report/doc/jirl-technical-report.pdf" type="application/pdf" height="100%" width="100%"></object>
 </div>
 
 <!-- <embed src="report/doc/jirl-technical-report.pdf" type="application/pdf"> -->
