@@ -4,6 +4,6 @@ Official Repository for "A Joint Imitation-Reinforcement Learning (JIRL) Framewo
 
 ## Technical Report
 
-<!-- <object data="report/doc/jirl-technical-report.pdf" type="application/pdf" width="70%"></object> -->
+<object data="report/doc/jirl-technical-report.pdf" type="application/pdf" width="80%"></object>
 
-<embed src="report/doc/jirl-technical-report.pdf" type="application/pdf">
+<!-- <embed src="report/doc/jirl-technical-report.pdf" type="application/pdf"> -->
