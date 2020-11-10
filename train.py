@@ -115,6 +115,8 @@ if 'normalize' in hyperparams.keys():
 # Create the jet racer object
 car = JetRacer()
 
+# Create the joystick object
+
 # Create the environment
 # env = DummyVecEnv([make_env(args.seed, vae=vae)])
 env = JetVAEEnv(vae = vae, jet_racer = car)
