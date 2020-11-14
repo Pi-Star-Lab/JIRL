@@ -10,7 +10,11 @@ Official Repository for "A Joint Imitation-Reinforcement Learning (JIRL) Framewo
  -->
 <!-- <embed src="report/doc/jirl-technical-report.pdf" type="application/pdf"> -->
 
-<div>
+<!-- <div>
     <iframe src="report/doc/jirl-technical-report.pdf" height="100%" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
+</div> -->
+
+<object data="report/jirl-technical-report.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="report/jirl-technical-report.pdf" type="application/pdf"></embed>
+</object>
